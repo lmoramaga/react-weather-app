@@ -30,8 +30,6 @@
   height: 64px;
   margin-right: 10px;
   display: inline-block;
-  position: relative;
-  top: -8px;
 }
 
 .weather .temperature {
